@@ -1,3 +1,6 @@
+# Evaluates on gold standard by default
+# Option for use of genTest() function to test on live YouTube data
+
 import lxml.html
 import requests
 import re
